@@ -2,7 +2,7 @@
   
 # 💫 Welcome to My Digital Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ajay+Dubey;Automation+Test+Engineer;Turning+Bugs+into+Features+Since+Day+One+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ajay+Dubey;Automation+Test+Engineer;%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Quality%20Code%20Enthusiast&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
